@@ -1,0 +1,12 @@
+.margin{
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+.submargin{
+    margin: 5px;
+    color: blueviolet;
+    font-weight: bold;
+}
+.paragraph{
+    color: red;
+}
